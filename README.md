@@ -126,4 +126,4 @@ I have also [created](prediction/baseline_afl_ml.ipynb) a machine learning basel
 
 # References 
 
-- **[FitzRoy R library]**(https://cran.r-project.org/web/packages/fitzRoy/index.html)
+- **[FitzRoy R library](https://cran.r-project.org/web/packages/fitzRoy/index.html)**

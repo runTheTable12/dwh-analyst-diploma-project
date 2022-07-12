@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: afl
+    database: afl-db
+
+    schema: afl
+    tables:
+      - name: stg_total_results
+      - name: stg_player_stats 
+      - name: stg_total_tips
